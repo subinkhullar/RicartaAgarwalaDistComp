@@ -1,0 +1,14 @@
+C:\Users\Subin Khullar\source\repos\RA-Csharp\obj\Debug\netcoreapp3.1\RA-Csharp.csproj.AssemblyReference.cache
+C:\Users\Subin Khullar\source\repos\RA-Csharp\obj\Debug\netcoreapp3.1\RA-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subin Khullar\source\repos\RA-Csharp\obj\Debug\netcoreapp3.1\RA-Csharp.AssemblyInfoInputs.cache
+C:\Users\Subin Khullar\source\repos\RA-Csharp\obj\Debug\netcoreapp3.1\RA-Csharp.AssemblyInfo.cs
+C:\Users\Subin Khullar\source\repos\RA-Csharp\obj\Debug\netcoreapp3.1\RA-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Subin Khullar\source\repos\RA-Csharp\bin\Debug\netcoreapp3.1\RA-Csharp.exe
+C:\Users\Subin Khullar\source\repos\RA-Csharp\bin\Debug\netcoreapp3.1\RA-Csharp.deps.json
+C:\Users\Subin Khullar\source\repos\RA-Csharp\bin\Debug\netcoreapp3.1\RA-Csharp.runtimeconfig.json
+C:\Users\Subin Khullar\source\repos\RA-Csharp\bin\Debug\netcoreapp3.1\RA-Csharp.runtimeconfig.dev.json
+C:\Users\Subin Khullar\source\repos\RA-Csharp\bin\Debug\netcoreapp3.1\RA-Csharp.dll
+C:\Users\Subin Khullar\source\repos\RA-Csharp\bin\Debug\netcoreapp3.1\RA-Csharp.pdb
+C:\Users\Subin Khullar\source\repos\RA-Csharp\obj\Debug\netcoreapp3.1\RA-Csharp.dll
+C:\Users\Subin Khullar\source\repos\RA-Csharp\obj\Debug\netcoreapp3.1\RA-Csharp.pdb
+C:\Users\Subin Khullar\source\repos\RA-Csharp\obj\Debug\netcoreapp3.1\RA-Csharp.genruntimeconfig.cache
